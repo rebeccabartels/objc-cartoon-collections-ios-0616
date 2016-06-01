@@ -9,10 +9,10 @@
     return YES;
 }
 
-/**
- 
- *  Define your method implementations here.
- 
- */
+- (NSArray *)summonCaptainPlanetWithPOwers: (NSString *)powers;
+- [selfarrayOfPlaneteerShoutsFromArray:powers]
+
+firstPremiumCheeseInStock:premiumCheeseNames: (NSLog)"@"No premium cheeses in stock.";
+arrayByConvertingMoneyBagsIntoPaperBills:(NSLog)"@"$20")
 
 @end
